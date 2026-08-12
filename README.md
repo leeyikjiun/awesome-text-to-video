@@ -172,6 +172,7 @@ Key trends:
 
 | Tool | What it does | Link |
 |------|--------------|------|
+| **Podframes** | Generates two-host AI podcast videos with scripted dialogue, voices, lip-sync, and captions. | [github.com/Jellypod-Inc/podframes](https://github.com/Jellypod-Inc/podframes) |
 | **TubePrompter** | Converts existing videos into optimized text-to-video prompts for Sora, Veo, Runway, etc. | [tubeprompter.com](https://tubeprompter.com/) |
 | **Vadoo AI** | AI shorts automation platform for faceless channels and social clips. | [vadoo.tv](https://vadoo.tv/) |
 | **Omni-Rewriter** | Open agentic prompt-expansion harness for image/video model dialects (schema + validation + bounded repair; expand ≠ generate). | [github.com/WayneJin0918/Omni-Rewriter](https://github.com/WayneJin0918/Omni-Rewriter) |
